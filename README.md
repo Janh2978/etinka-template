@@ -1,2 +1,2 @@
-# janh2978.github.io
+# eTinka template
 web template
